@@ -1,11 +1,11 @@
 # Command Line Notebook
-- A super imple notebook accessible from the command line, made to practice Python file I/O basics
+A super imple notebook accessible from the command line, made to practice Python file I/O basics
 -------------------
 
 ## Usage
--Pull up Notebook with `./notes.py`
--To log a note, type `log` `<CR>` for prompt
--Choose from command options listed
+- Pull up Notebook with `./notes.py`
+- To log a note, type `log` `<CR>` for prompt
+- Choose from command options listed
 
 ## Files
 -------------------
@@ -16,9 +16,9 @@
 
 ## Operator Functions:
 -------------------
--`appendlines`: Appends note to file
--`cleartext`: Clears entire notebook
--`countlines`: Provides number of lines written
--`printlines`: Prints file with line numbers
--`readfile`: Reads and prints entire file
+- `appendlines`: Appends note to file
+- `cleartext`: Clears entire notebook
+- `countlines`: Provides number of lines written
+- `printlines`: Prints file with line numbers
+- `readfile`: Reads and prints entire file
 
