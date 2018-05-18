@@ -1,5 +1,5 @@
 # Command Line Notebook
-A super imple notebook accessible from the command line, made to practice Python file I/O basics
+A super simple command line notebook, made for practicing Python file I/O basics
 -------------------
 
 ## Usage
