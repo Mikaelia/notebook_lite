@@ -8,14 +8,12 @@ A super imple notebook accessible from the command line, made to practice Python
 - Choose from command options listed: `<command>` + `<CR>`
 
 ## Files
--------------------
 
 - **[notes.py](notes.py)**: Main file and prompt
 - **[findfunc.py](findfunc.py)**: Matches input argument to function call
 - **[iofuncs.py](iofuncs.py)**: Operator functions
 
 ## Operator Functions:
--------------------
 - `appendlines`: Appends note to file
 - `cleartext`: Clears entire notebook
 - `countlines`: Provides number of lines written
