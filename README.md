@@ -10,9 +10,9 @@ A super imple notebook accessible from the command line, made to practice Python
 ## Files
 -------------------
 
-**[notes.py](notes.py)**: Main file and prompt
-**[findfunc.py](findfunc.py)**: Matches input argument to function call
-**[iofuncs.py](iofuncs.py)**: Operator functions
+- **[notes.py](notes.py)**: Main file and prompt
+- **[findfunc.py](findfunc.py)**: Matches input argument to function call
+- **[iofuncs.py](iofuncs.py)**: Operator functions
 
 ## Operator Functions:
 -------------------
