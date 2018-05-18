@@ -7,8 +7,6 @@ A super imple notebook accessible from the command line, made to practice Python
 - To log a note, type `log` `<CR>` for prompt
 - Choose from command options listed: `<command>` + `<CR>`
 
-## Requirements
-- All files are interpreted/compiled on `Ubuntu 14.04 LTS` using `python3`
 ## Files
 
 - **[notes.py](notes.py)**: Main file and prompt
@@ -22,3 +20,5 @@ A super imple notebook accessible from the command line, made to practice Python
 - `printlines`: Prints file with line numbers
 - `readfile`: Reads and prints entire file
 
+## Requirements
+- All files are interpreted/compiled on `Ubuntu 14.04 LTS` using `python3`
