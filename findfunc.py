@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 from iofuncs import appendlines, cleartext, countlines, printlines, readfile
+
+
 def findfunc(filename, command):
     """finds and runs operator for command token"""
     message = None

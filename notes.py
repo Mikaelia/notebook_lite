@@ -14,7 +14,7 @@ if __name__ == "__main__":
     try:
         while True:
             command = input(
-                "\nNotebook Options:\n\n[log]: Add note\n[print]: Print entries\n[show]: Show line numbers\n[length]: Print length\n[clear]: Clear notes\n\n-----> ")
+                "\nNotebook Options:\n\n[log]: Add note\n[print]: Print entries\n[show]: Show line numbers\n[length]: Print length\n[clear]: Clear notes\n[quit]: <ctrl> + c\n\n-----> ")
             doc = 'journal.txt'
             look.findfunc(doc, command)
     except KeyboardInterrupt:
